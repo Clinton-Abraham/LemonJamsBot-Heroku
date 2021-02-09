@@ -18,4 +18,4 @@ Here is the place where this repo (which you are reading this readme) comes into
 * if everything goes fine you should see something like ```@username is running...``` in the log
 * Voila!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CW4RR10R/LemonJamsBot-Heroku/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/LemonJamsBot-Heroku/tree/main)
